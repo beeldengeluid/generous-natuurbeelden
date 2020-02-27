@@ -1,0 +1,630 @@
+[
+  {
+    "dcterms:hasFormat": [
+      "https://www.openbeelden.nl/files/10/50/1050206.1050115.VKA038_007_12-NAT00Z03K5P.ogv",
+      "https://www.openbeelden.nl/files/10/50/1050208.1050115.VKA038_007_12-NAT00Z03K5P.ogv",
+      "https://www.openbeelden.nl/files/10/50/1050204.1050115.VKA038_007_12-NAT00Z03K5P.webm",
+      "https://www.openbeelden.nl/files/10/50/1050202.1050115.VKA038_007_12-NAT00Z03K5P.mp4",
+      "https://www.openbeelden.nl/files/10/50/1050200.1050115.VKA038_007_12-NAT00Z03K5P.mp4",
+      "https://www.openbeelden.nl/files/10/50/1050115.VKA038_007_12-NAT00Z03K5P.mp4",
+      "https://www.openbeelden.nl/files/10/50/1050431.1050115.VKA038_007_12_NAT00Z03K5P.m3u8",
+      "https://www.openbeelden.nl/images/1051911/Jonge_sperwers_bewegen_op_nest_%283_39%29.png"
+    ],
+    "dcterms:description": {
+      "@value": "Clip gemaakt in de natuur uit de collectie van Stichting Natuurbeelden (www.natuurbeelden.nl).",
+      "@language": "nl"
+    },
+    "dcterms:subject": [
+      {
+        "@value": "close",
+        "@language": "nl"
+      },
+      {
+        "@value": "middag",
+        "@language": "nl"
+      },
+      {
+        "@value": "zonnig",
+        "@language": "nl"
+      },
+      {
+        "@value": "buitenopname",
+        "@language": "nl"
+      },
+      {
+        "@value": "totaal",
+        "@language": "nl"
+      },
+      {
+        "@value": "sperwer",
+        "@language": "nl"
+      },
+      {
+        "@value": "voortplanting",
+        "@language": "nl"
+      },
+      {
+        "@value": "Accipiter nisus",
+        "@language": "nl"
+      },
+      {
+        "@value": "bostuin",
+        "@language": "nl"
+      },
+      {
+        "@value": "ochtend",
+        "@language": "nl"
+      },
+      {
+        "@value": "Aves",
+        "@language": "nl"
+      },
+      {
+        "@value": "bewegen",
+        "@language": "nl"
+      },
+      {
+        "@value": "zomer",
+        "@language": "nl"
+      },
+      {
+        "@value": "havik- en sperwerachtigen",
+        "@language": "nl"
+      },
+      {
+        "@value": "Accipitridae",
+        "@language": "nl"
+      },
+      {
+        "@value": "vogels",
+        "@language": "nl"
+      },
+      {
+        "@value": "bewolkt",
+        "@language": "nl"
+      },
+      {
+        "@value": "exterieur",
+        "@language": "nl"
+      },
+      {
+        "@value": "fauna",
+        "@language": "nl"
+      }
+    ],
+    "dcterms:extent": "PT7M19S",
+    "dcterms:contributor": [
+      "http://www.openbeelden.nl/users/stichting_natuurbeelden",
+      "Stichting Natuurbeelden"
+    ],
+    "cc:attributionURL": "https://www.openbeelden.nl/media/1050111",
+    "cc:attributionName": {
+      "@value": "Veldkijker (producent);Willem Berents (camera);Stichting Natuurbeelden",
+      "@language": "nl"
+    },
+    "dcterms:title": {
+      "@value": "Jonge sperwers bewegen op nest",
+      "@language": "nl"
+    },
+    "dcterms:abstract": {
+      "@value": "In een nest zitten drie jonge sperwers. De jongen hebben een flink formaat. Ze zijn nog grotendeels gehuld in witte donsveren, maar het juveniele verenkleed komt al duidelijk te voorschijn. De slagpennen en staartveren zijn al gedeeltelijk ontwikkeld. De jonge sperwers zijn actief op het nest. Ze staan, zitten, strekken vleugels, poetsen hun veren en kijken rond. In het begin landt het sperwervrouwtje even op het nest. Ze vliegt snel weer weg. Aan het einde van de clip landt het vrouwtje nog eens, om ook weer snel weg te vliegen. Daarna dooft de activiteit van de jonge sperwers uit. Ze kruipen diep in het nest. Er zijn uiteindelijk alleen nog enkele flinke vleesvliegen te zien die bij het nest rondhangen.",
+      "@language": "nl"
+    },
+    "dcterms:identifier": "4931748",
+    "dcterms:source": {
+      "@value": "VKA038_007_12-NAT00Z03K5P.mp4",
+      "@language": "nl"
+    },
+    "dcterms:spatial": [
+      {
+        "@value": "Dongen-Vaart",
+        "@language": "nl"
+      },
+      {
+        "@value": "Noord-Brabant",
+        "@language": "nl"
+      },
+      {
+        "@value": "Nederland",
+        "@language": "nl"
+      }
+    ],
+    "dcterms:type": "Moving Image",
+    "dcterms:date": "2013-07-02",
+    "cc:license": "https://creativecommons.org/licenses/by-sa/3.0/nl/",
+    "dcterms:language": "nl",
+    "@id": "oai:openimages.eu:1050111",
+    "dcterms:creator": {
+      "@value": "Veldkijker (producent);Willem Berents (camera);Stichting Natuurbeelden",
+      "@language": "nl"
+    },
+    "dcterms:publisher": "https://www.openbeelden.nl/users/stichting_natuurbeelden"
+  },
+  {
+    "dcterms:hasFormat": [
+      "https://www.openbeelden.nl/files/10/49/1049257.1049244.VKH0350_073_2-NAT00Z034N0.mp4",
+      "https://www.openbeelden.nl/files/10/49/1049261.1049244.VKH0350_073_2-NAT00Z034N0.webm",
+      "https://www.openbeelden.nl/files/10/49/1049265.1049244.VKH0350_073_2-NAT00Z034N0.ogv",
+      "https://www.openbeelden.nl/images/599868/preview_video_512x288.png",
+      "https://www.openbeelden.nl/files/10/49/1049263.1049244.VKH0350_073_2-NAT00Z034N0.ogv",
+      "https://www.openbeelden.nl/files/10/49/1049268.1049244.VKH0350_073_2_NAT00Z034N0.m3u8",
+      "https://www.openbeelden.nl/files/10/49/1049259.1049244.VKH0350_073_2-NAT00Z034N0.mp4",
+      "https://www.openbeelden.nl/files/10/49/1049244.VKH0350_073_2-NAT00Z034N0.mp4"
+    ],
+    "dcterms:description": {
+      "@value": "Clip gemaakt in de natuur uit de collectie van Stichting Natuurbeelden (www.natuurbeelden.nl).",
+      "@language": "nl"
+    },
+    "dcterms:subject": [
+      {
+        "@value": "Embryophyta",
+        "@language": "nl"
+      },
+      {
+        "@value": "Colchicaceae",
+        "@language": "nl"
+      },
+      {
+        "@value": "flora",
+        "@language": "nl"
+      },
+      {
+        "@value": "zaadplanten",
+        "@language": "nl"
+      },
+      {
+        "@value": "cultuurlandschappen",
+        "@language": "nl"
+      },
+      {
+        "@value": "planten",
+        "@language": "nl"
+      },
+      {
+        "@value": "ochtend",
+        "@language": "nl"
+      },
+      {
+        "@value": "exterieur",
+        "@language": "nl"
+      },
+      {
+        "@value": "Angiospermae",
+        "@language": "nl"
+      },
+      {
+        "@value": "najaar",
+        "@language": "nl"
+      },
+      {
+        "@value": "Colchicum",
+        "@language": "nl"
+      },
+      {
+        "@value": "herfsttijloos",
+        "@language": "nl"
+      },
+      {
+        "@value": "herfsttijloosfamilie",
+        "@language": "nl"
+      },
+      {
+        "@value": "totaal",
+        "@language": "nl"
+      },
+      {
+        "@value": "close",
+        "@language": "nl"
+      },
+      {
+        "@value": "landplanten",
+        "@language": "nl"
+      },
+      {
+        "@value": "Spermatopsida",
+        "@language": "nl"
+      },
+      {
+        "@value": "buitenopname",
+        "@language": "nl"
+      },
+      {
+        "@value": "bedektzadigen",
+        "@language": "nl"
+      },
+      {
+        "@value": "Colchicum autumnale",
+        "@language": "nl"
+      }
+    ],
+    "dcterms:extent": "PT1H22M8S",
+    "dcterms:contributor": [
+      "Stichting Natuurbeelden",
+      "http://www.openbeelden.nl/users/stichting_natuurbeelden"
+    ],
+    "cc:attributionURL": "https://www.openbeelden.nl/media/1049239",
+    "cc:attributionName": {
+      "@value": "Veldkijker (producent);Boris Berents (camera);Stichting Natuurbeelden",
+      "@language": "nl"
+    },
+    "dcterms:title": {
+      "@value": "Een bloeiende herfsttijloos",
+      "@language": "nl"
+    },
+    "dcterms:abstract": {
+      "@value": "Een bloeiende bloem van het herfsttijloos in het gras. De bloem staat op een lange bloemstengel en wiegt in de wind. Er zijn achtereenvolgens twee bloemen te zien. Samengestelde clip.",
+      "@language": "nl"
+    },
+    "dcterms:identifier": "4871248",
+    "dcterms:source": {
+      "@value": "VKH0350_073_2-NAT00Z034N0.mp4",
+      "@language": "nl"
+    },
+    "dcterms:spatial": [
+      {
+        "@value": "Nederland",
+        "@language": "nl"
+      },
+      {
+        "@value": "Flevoland",
+        "@language": "nl"
+      },
+      {
+        "@value": "Almere",
+        "@language": "nl"
+      }
+    ],
+    "dcterms:type": "Moving Image",
+    "dcterms:date": "2012-01-01",
+    "cc:license": "https://creativecommons.org/licenses/by-sa/3.0/nl/",
+    "dcterms:language": "nl",
+    "@id": "oai:openimages.eu:1049239",
+    "dcterms:creator": {
+      "@value": "Veldkijker (producent);Boris Berents (camera);Stichting Natuurbeelden",
+      "@language": "nl"
+    },
+    "dcterms:publisher": "https://www.openbeelden.nl/users/stichting_natuurbeelden"
+  },
+  {
+    "dcterms:hasFormat": [
+      "https://www.openbeelden.nl/files/10/51/1051178.VKA021_029_11-NAT00Z03K54.mp4",
+      "https://www.openbeelden.nl/files/10/51/1051194.1051178.VKA021_029_11-NAT00Z03K54.mp4",
+      "https://www.openbeelden.nl/files/10/51/1051196.1051178.VKA021_029_11-NAT00Z03K54.webm",
+      "https://www.openbeelden.nl/files/10/51/1051192.1051178.VKA021_029_11-NAT00Z03K54.mp4",
+      "https://www.openbeelden.nl/images/1051900/Daslook_in_close-up_%281_57%29.png",
+      "https://www.openbeelden.nl/files/10/51/1051200.1051178.VKA021_029_11-NAT00Z03K54.ogv",
+      "https://www.openbeelden.nl/files/10/51/1051209.1051178.VKA021_029_11_NAT00Z03K54.m3u8",
+      "https://www.openbeelden.nl/files/10/51/1051198.1051178.VKA021_029_11-NAT00Z03K54.ogv"
+    ],
+    "dcterms:description": {
+      "@value": "Clip gemaakt in de natuur uit de collectie van Stichting Natuurbeelden (www.natuurbeelden.nl).",
+      "@language": "nl"
+    },
+    "dcterms:subject": [
+      {
+        "@value": "extreem close",
+        "@language": "nl"
+      },
+      {
+        "@value": "lookfamilie",
+        "@language": "nl"
+      },
+      {
+        "@value": "bloei",
+        "@language": "nl"
+      },
+      {
+        "@value": "voorjaar",
+        "@language": "nl"
+      },
+      {
+        "@value": "Alliaceae",
+        "@language": "nl"
+      },
+      {
+        "@value": "zonnig",
+        "@language": "nl"
+      },
+      {
+        "@value": "close",
+        "@language": "nl"
+      },
+      {
+        "@value": "Allium",
+        "@language": "nl"
+      },
+      {
+        "@value": "Allium ursinum",
+        "@language": "nl"
+      },
+      {
+        "@value": "klasse van de eiken- en beukenbossen op voedselrijke grond",
+        "@language": "nl"
+      },
+      {
+        "@value": "flora",
+        "@language": "nl"
+      },
+      {
+        "@value": "exterieur",
+        "@language": "nl"
+      },
+      {
+        "@value": "planten",
+        "@language": "nl"
+      },
+      {
+        "@value": "bewolkt",
+        "@language": "nl"
+      },
+      {
+        "@value": "totaal",
+        "@language": "nl"
+      },
+      {
+        "@value": "daslook",
+        "@language": "nl"
+      },
+      {
+        "@value": "kensoort",
+        "@language": "nl"
+      },
+      {
+        "@value": "middag",
+        "@language": "nl"
+      },
+      {
+        "@value": "look",
+        "@language": "nl"
+      },
+      {
+        "@value": "hellingbossen",
+        "@language": "nl"
+      },
+      {
+        "@value": "buitenopname",
+        "@language": "nl"
+      }
+    ],
+    "dcterms:extent": "PT3M54S",
+    "dcterms:contributor": [
+      "Stichting Natuurbeelden",
+      "http://www.openbeelden.nl/users/stichting_natuurbeelden"
+    ],
+    "cc:attributionURL": "https://www.openbeelden.nl/media/1051174",
+    "cc:attributionName": {
+      "@value": "Veldkijker (producent);Willem Berents (camera);Stichting Natuurbeelden",
+      "@language": "nl"
+    },
+    "dcterms:title": {
+      "@value": "Daslook in close-up",
+      "@language": "nl"
+    },
+    "dcterms:abstract": {
+      "@value": "Daslook in bloei. Eerst is een groep daslook beeldvullend in beeld. Vervolgens komt een bloeiwijze van de daslook in een aantal opeenvolgende kaders steeds nadrukkelijker in beeld. De meeldraden (6) en de driedelige stamper in elke bloem zijn goed herkenbaar. Uiteindelijk komt ook een bloemhoofd in beeld dat nog niet volledig in bloei staat. Diverse kaders. Samengestelde clip.",
+      "@language": "nl"
+    },
+    "dcterms:identifier": "4931769",
+    "dcterms:source": {
+      "@value": "VKA021_029_11-NAT00Z03K54.mp4",
+      "@language": "nl"
+    },
+    "dcterms:spatial": [
+      {
+        "@value": "Zuid-Limburg",
+        "@language": "nl"
+      },
+      {
+        "@value": "Nederland",
+        "@language": "nl"
+      },
+      {
+        "@value": "Geuldal",
+        "@language": "nl"
+      },
+      {
+        "@value": "Limburg",
+        "@language": "nl"
+      },
+      {
+        "@value": "Valkenburg",
+        "@language": "nl"
+      }
+    ],
+    "dcterms:type": "Moving Image",
+    "dcterms:date": "2013-05-27",
+    "cc:license": "https://creativecommons.org/licenses/by-sa/3.0/nl/",
+    "dcterms:language": "nl",
+    "@id": "oai:openimages.eu:1051174",
+    "dcterms:creator": {
+      "@value": "Veldkijker (producent);Willem Berents (camera);Stichting Natuurbeelden",
+      "@language": "nl"
+    },
+    "dcterms:publisher": "https://www.openbeelden.nl/users/stichting_natuurbeelden"
+  },
+  {
+    "dcterms:hasFormat": [
+      "https://www.openbeelden.nl/files/10/55/1055675.1055648.VKA152_027_05-NAT00Z050OO.mp4",
+      "https://www.openbeelden.nl/files/10/55/1055773.1055648.VKA152_027_05_NAT00Z050OO.m3u8",
+      "https://www.openbeelden.nl/images/1056191/Boomkikkertje_vangt_vlieg_%282_25%29.png",
+      "https://www.openbeelden.nl/files/10/55/1055679.1055648.VKA152_027_05-NAT00Z050OO.webm",
+      "https://www.openbeelden.nl/files/10/55/1055648.VKA152_027_05-NAT00Z050OO.mp4",
+      "https://www.openbeelden.nl/files/10/55/1055681.1055648.VKA152_027_05-NAT00Z050OO.ogv",
+      "https://www.openbeelden.nl/files/10/55/1055683.1055648.VKA152_027_05-NAT00Z050OO.ogv",
+      "https://www.openbeelden.nl/files/10/55/1055677.1055648.VKA152_027_05-NAT00Z050OO.mp4"
+    ],
+    "dcterms:description": {
+      "@value": "Clip gemaakt in de natuur uit de collectie van Stichting Natuurbeelden (www.natuurbeelden.nl).",
+      "@language": "nl"
+    },
+    "dcterms:subject": [
+      {
+        "@value": "wijd",
+        "@language": "nl"
+      },
+      {
+        "@value": "vennen",
+        "@language": "nl"
+      },
+      {
+        "@value": "Rubus spec.",
+        "@language": "nl"
+      },
+      {
+        "@value": "Amfibia",
+        "@language": "nl"
+      },
+      {
+        "@value": "flora",
+        "@language": "nl"
+      },
+      {
+        "@value": "kikkers en padden",
+        "@language": "nl"
+      },
+      {
+        "@value": "close",
+        "@language": "nl"
+      },
+      {
+        "@value": "planten",
+        "@language": "nl"
+      },
+      {
+        "@value": "springen",
+        "@language": "nl"
+      },
+      {
+        "@value": "amfibieën en reptielen",
+        "@language": "nl"
+      },
+      {
+        "@value": "extreem close",
+        "@language": "nl"
+      },
+      {
+        "@value": "fauna",
+        "@language": "nl"
+      },
+      {
+        "@value": "zitten",
+        "@language": "nl"
+      },
+      {
+        "@value": "bewolkt",
+        "@language": "nl"
+      },
+      {
+        "@value": "Hylidae",
+        "@language": "nl"
+      },
+      {
+        "@value": "amfibieën",
+        "@language": "nl"
+      },
+      {
+        "@value": "Celastrina argiolus",
+        "@language": "nl"
+      },
+      {
+        "@value": "rusten",
+        "@language": "nl"
+      },
+      {
+        "@value": "totaal",
+        "@language": "nl"
+      },
+      {
+        "@value": "boomkikkers",
+        "@language": "nl"
+      },
+      {
+        "@value": "Hyla arborea",
+        "@language": "nl"
+      },
+      {
+        "@value": "kijken",
+        "@language": "nl"
+      },
+      {
+        "@value": "Anura",
+        "@language": "nl"
+      },
+      {
+        "@value": "zomer",
+        "@language": "nl"
+      },
+      {
+        "@value": "braam spec.",
+        "@language": "nl"
+      },
+      {
+        "@value": "boomblauwtje",
+        "@language": "nl"
+      },
+      {
+        "@value": "europese boomkikker",
+        "@language": "nl"
+      },
+      {
+        "@value": "jagen",
+        "@language": "nl"
+      },
+      {
+        "@value": "middag",
+        "@language": "nl"
+      },
+      {
+        "@value": "cultuurlandschappen",
+        "@language": "nl"
+      }
+    ],
+    "dcterms:extent": "PT4M51S",
+    "dcterms:contributor": [
+      "Stichting Natuurbeelden",
+      "http://www.openbeelden.nl/users/stichting_natuurbeelden"
+    ],
+    "cc:attributionURL": "https://www.openbeelden.nl/media/1055644",
+    "cc:attributionName": {
+      "@value": "Veldkijker (producent);Willem Berents (camera);Stichting Natuurbeelden",
+      "@language": "nl"
+    },
+    "dcterms:title": {
+      "@value": "Boomkikkertje vangt vlieg",
+      "@language": "nl"
+    },
+    "dcterms:abstract": {
+      "@value": "In een bramenstruweel jaagt een klein boomkikkertje (juveniel) op prooi. Eerst is een deel van het bramenstruweel in beeld. Er zijn rijpe en onrijpe vruchten te zien. En hier en daar steekt een andere plant tussen het bladerdek door. Er fladdert een boomblauwtje rond. Dieper in het struweel zitten twee jonge boomkikkertjes vlak bij elkaar. De ene is volledig groen. De ander heeft een tekening. Vervolgens komt het kikkertje met de tekening nadrukkelijk in beeld. Eerst vanaf de flank. Het kikkertje draait vervolgens de rug naar de camera. Het blijft in een actieve houding zitten. Het kijkt rond. Dan opeens verschijnt er een dikke zwarte vlieg op een blad dat verderop hangt. De vlieg bevindt zich in de onscherpe achtergrond, maar is goed herkenbaar. Het kikkertje heeft de vlieg gezien en positioneert zich in een jachthouding. Het springt en vangt de vlieg. Als de camera scherpstelt is te zien hoe het kikkertje de vlieg wegslikt. Dat het een grote prooi is, is herkenbaar aan het aantal keren dat het kikkertje moet slikken. Het kikkertje komt vervolgens nadrukkelijker in beeld. De zuignapjes aan de tenen van het kikkertje zijn goed zichtbaar. Het 'wast' zijn ogen een keer en draait dan met de flank naar de camera. Vervolgens vouwt het de voorpootjes onder de borst en neemt een rusthouding aan. Samengestelde clip. Diverse kaders.",
+      "@language": "nl"
+    },
+    "dcterms:identifier": "6056313",
+    "dcterms:source": {
+      "@value": "VKA152_027_05-NAT00Z050OO.mp4",
+      "@language": "nl"
+    },
+    "dcterms:spatial": [
+      {
+        "@value": "Vledder",
+        "@language": "nl"
+      },
+      {
+        "@value": "Drenthe",
+        "@language": "nl"
+      },
+      {
+        "@value": "Nederland",
+        "@language": "nl"
+      }
+    ],
+    "dcterms:type": "Moving Image",
+    "dcterms:date": "2014-07-22",
+    "cc:license": "https://creativecommons.org/licenses/by-sa/3.0/nl/",
+    "dcterms:language": "nl",
+    "@id": "oai:openimages.eu:1055644",
+    "dcterms:creator": {
+      "@value": "Veldkijker (producent);Willem Berents (camera);Stichting Natuurbeelden",
+      "@language": "nl"
+    },
+    "dcterms:publisher": "https://www.openbeelden.nl/users/stichting_natuurbeelden"
+  }
+]
